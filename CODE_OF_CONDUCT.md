@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+https://github.com/kashifnajeeb/github-final-project/edit/main/CODE_OF_CONDUCT.md
